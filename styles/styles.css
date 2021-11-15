@@ -14,11 +14,11 @@
       top: 0;
     display: flex;
     position: fixed;
-      left: 0;
-      width: 100%;
+    left: 0;
+    width: 100%;
     align-items: center;
-      height: 100%;
-      font: 2em system-ui;
+    font: 1.75em system-ui;
+    height: 100%;
   }
   
   .logo{
